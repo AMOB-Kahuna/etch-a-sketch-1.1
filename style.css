@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    background-color: #eee;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    /* border: solid 1px black; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+}
+
